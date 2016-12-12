@@ -3,3 +3,4 @@
 ## Contents
 
 * [Basic](Basic.md)
+* [Phrase](Phrase.md)
