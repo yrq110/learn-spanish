@@ -2,7 +2,7 @@
 
 basic in Spanish
 
-## Masculine and Feminine Nouns
+## Masculine and Feminine Noun
 
 | Spanish | English | Comments |
 | ----- | ------- | -------- |
@@ -11,29 +11,40 @@ basic in Spanish
 | hombre | man | M |
 | mujer | woman | F |
 
-## Articles
+## Article
 
 | Spanish | English | Comments |
 | ----- | ------- | -------- |
 | un | a/an | M |
 | una | a/an | F |
 | el | the | M |
-| la | the | F |
+| la/los/las | the | F |
 
-## Nouns
+## Person
 
 | Spanish | English | Comments |
 | ----- | ------- | -------- |
 | yo | i | |
-| usted | you | formal |
+| nosotros/nosotras | we | |
+| usted/ustedes | you | formal |
 | tú | you | informal |
 | él | he/him | |
 | ella | she/her | |
+| ellos/ellas | they/them | |
+
+
+## Other
+
+| Spanish | English | Comments |
+| ----- | ------- | -------- |
 | es | is | |
 | eres | are | |
-| bebe/bebes/bebo | drink| |
-| come/comes/como | eat | |
+| bebe | drink| |
+| come | eat | |
+| lee | read | |
 | agua | water | |
-| leche | milk ||
-
-
+| leche | milk | |
+| carta | letter | |
+| libro | book | |
+| vino | wine | |
+| diario | newspaper | |
