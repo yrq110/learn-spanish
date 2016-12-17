@@ -32,3 +32,17 @@ food in Spanish
 | sal | salt | F |
 | vegetales | vegetables | |
 | té | tea | M |
+| hongo | mushroom | M |
+| zanahoria | carrot |  |
+| lechuga | lettuce |  |
+| pastel | cake | M |
+| piña | pineapple | |
+| maíz | corn | M |
+| uva | grape | F |
+| hielo | rice | M |
+| atún | tuna | |
+| pavo | turkey | |
+| mantequilla | butter | F |
+| aceite | oil | M |
+| ajo | garlic | M |
+| pimienta | pepper | F |
