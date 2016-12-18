@@ -46,3 +46,10 @@ food in Spanish
 | aceite | oil | M |
 | ajo | garlic | M |
 | pimienta | pepper | F |
+
+
+## composite
+
+| Spanish | English |
+| ----- | ------- |
+| jugo de manzana | apple juice |
