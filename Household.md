@@ -25,3 +25,16 @@ household in Spanish
 | puerta | door | F |
 | sofá | sofa | M |
 | esponja | sponge | M |
+| piso | floor | M |
+| horno | oven | M |
+| pared | wall | F |
+| techo | ceiling | M |
+| dormitorio | bedroom | M |
+| sótano | basement/cell | M |
+| escalera | staircase/ladder | M |
+| habitación | room | F |
+| cepillo | brush | M |
+| secadora | dryer | F |
+| lavadora | washing machine | F |
+| limpia | clean | |
+| refrigerador | fridge | M |
