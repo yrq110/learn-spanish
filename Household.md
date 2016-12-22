@@ -38,3 +38,9 @@ household in Spanish
 | lavadora | washing machine | F |
 | limpia | clean | |
 | refrigerador | fridge | M |
+| jabón | soap | |
+| paraguas | umbrella | M |
+| sábana | bedsheet | F |
+| cartera | wallet/purse | F |
+| rasuradora | razor | F |
+
