@@ -10,6 +10,8 @@ time in Spanish
 | mese | month | M |
 | día | day | M |
 | hora | hour | F |
+| minuto | minute | M |
+| segundo | second | M |
 | noche | night | F |
 | hoy | today | |
 | mañana | tomorrow | |
@@ -42,3 +44,15 @@ time in Spanish
 | junio | june | M |
 | julio | july | M |
 | abril | april | M |
+| noviembre | november | M |
+| septiembre | september | M |
+| octubre | october | M |
+| diciembre | december | M |
+
+## Season
+
+| Spanish | English | Comments |
+| ----- | ------- | -------- |
+| temporada | season | F |
+| primavera | spring | F |
+| invierno | winter | M |
