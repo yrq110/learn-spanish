@@ -12,7 +12,11 @@ time in Spanish
 | hora | hour | F |
 | minuto | minute | M |
 | segundo | second | M |
+| madrugada | daybreak | F |
+| en la mañana | morning |  |
+| mediodía | noon | M |
 | noche | night | F |
+| anoche | last night | |
 | hoy | today | |
 | mañana | tomorrow | |
 | ayer | yesterday | |
@@ -55,4 +59,17 @@ time in Spanish
 | ----- | ------- | -------- |
 | temporada | season | F |
 | primavera | spring | F |
+| verano | summar | M |
 | invierno | winter | M |
+
+## Other
+
+| Spanish | English | Comments |
+| ----- | ------- | -------- |
+| cumpleaños | birthday | M | 
+| cita | appointment | F |
+| vacaciones | vacation | F |
+| fecha | date | F |
+
+
+
