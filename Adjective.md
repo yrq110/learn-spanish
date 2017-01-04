@@ -24,4 +24,3 @@ adjectives in Spanish
 | real | real |
 | final | final |
 | posible | possible |
-
