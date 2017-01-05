@@ -24,3 +24,18 @@ adjectives in Spanish
 | real | real |
 | final | final |
 | posible | possible |
+| solo | alone |
+| diferentes | different |
+| personal | personal |
+| necesario | necessary |
+| duro | hard |
+| pública | public |
+| popular | popular |
+| principales | main |
+| fuerte | strong |
+| principal | main |
+| único | only |
+| segura | |
+| local | local |
+| distintos | different |
+| capaz | able |
