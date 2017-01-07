@@ -39,3 +39,17 @@ adjectives in Spanish
 | local | local |
 | distintos | different |
 | capaz | able |
+| imposible | impossible |
+| siguientes | following |
+| propios | own |
+| suficiente | enough |
+| profesionales | professional |
+| simple | simple |
+| worse | peor |
+| tantos | so many |
+| mala | bad |
+| pobre | poor |
+| responsables | responsible |
+| normal | normal |
+| familiar | family |
+| clara | clear |
