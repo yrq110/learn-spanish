@@ -53,3 +53,16 @@ adjectives in Spanish
 | normal | normal |
 | familiar | family |
 | clara | clear |
+| justo | fair |
+| plano | flat |
+| próximas | next |
+| histórica | historic |
+| rico | rich |
+| recientes | recent |
+| naturales | natural |
+| rápida | fast | 
+| inteligente | intelligent |
+| pasada | last |
+| caros | expensive |
+| tradicionales | traditional |
+| barata | cheap |
