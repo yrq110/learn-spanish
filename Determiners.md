@@ -19,3 +19,12 @@ It is important to note that the masculine singular forms in the table above don
 ## Ese versus Aquel
 
 Both "ese" and "aquel" and their related forms are translated to English as "that" or "those." However, they have slightly different meanings. "Ese" is more common, and usually refers to things that are closer in terms of distance or time. For example, "esos perros" would be "those dogs," whereas "aquellos perros" is closer in meaning to "those dogs over there."
+
+
+
+| Spanish | English | 
+| ----- | ------- | 
+| ambos | both |
+| muchos | a lot of |
+| pocos | a few |
+| algunos | some |
