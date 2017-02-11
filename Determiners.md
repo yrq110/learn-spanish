@@ -28,3 +28,6 @@ Both "ese" and "aquel" and their related forms are translated to English as "tha
 | muchos | a lot of |
 | pocos | a few |
 | algunos | some |
+| otro/otras | another |
+| cualquier | any |
+| ningún | no |
