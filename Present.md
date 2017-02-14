@@ -38,3 +38,11 @@ Examples
 | ¿`Cierro` la puerta? | Do I `close` the door? |
 | Ella `recuerda` tu camisa | She remembers your shirt | 
 | Ellas `aparecen` en la noche | They appear at night |
+| ¿Cómo está usted? | How are you? |
+| Él `vuelve` | He `returns` |
+| Él `visita` al doctor | He `visits` the doctor|
+| No `pensamos` | We do not `think` |
+| Ellas no `dan` comida | They don't `give` food|
+| `Acepto` el sofá | I `accept` the sofa|
+| Él `respeta` a su mujer | He `respects` his wife |
+| Ellas `toman` vino | They `drink` wine |
