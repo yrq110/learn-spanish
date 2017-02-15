@@ -46,3 +46,11 @@ Examples
 | `Acepto` el sofá | I `accept` the sofa|
 | Él `respeta` a su mujer | He `respects` his wife |
 | Ellas `toman` vino | They `drink` wine |
+| Tú no `cuentas` | You do not `count` |
+| Él `conoce` a las mujeres | He `knows` the women|
+| El teléfono no `sirve` | The phone does not `work` |
+| Yo `comienzo` mañana | I `start` tomorrow |
+| Usted no `cabe` | You do not `fit`|
+| Él `sirve` el arroz | He `serves` the rice|
+| Sí, `parece` familiar| Yes, `it seems` familiar|
+| El largo invierno `acaba` | The long winter `ends` |
