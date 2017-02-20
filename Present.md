@@ -51,6 +51,20 @@ Examples
 | El teléfono no `sirve` | The phone does not `work` |
 | Yo `comienzo` mañana | I `start` tomorrow |
 | Usted no `cabe` | You do not `fit`|
-| Él `sirve` el arroz | He `serves` the rice|
-| Sí, `parece` familiar| Yes, `it seems` familiar|
+| Él `sirve` el arroz | He `serves` the rice |
+| Sí, `parece` familiar| Yes, `it seems` familiar |
 | El largo invierno `acaba` | The long winter `ends` |
+| Él `firma` el libro | He `signs` the book | 
+| Usted `entrega` la comida | You `deliver` the food |
+| La madre `culpa` al hijo | The mother `blames` the son |
+| Él `incluye` a su madre | He `includes` his mother |
+| Ellos no `importan` | They do not `matter` |
+| Por favor `firma` | please `sign` |
+| ¿Qué `siente` él? | What does he `feel`? |
+| Él `entra` en la cocina | He `enters` the kitchen |
+| Yo `digo`, tú `dices` | I `say`, you `say` |
+| La fiesta `empieza` en una hora | The party `begins` in an hour |
+| Yo `abro` el jugo | I `open` the juice |
+| Él `requiere` más comida | He `requires` mroe food |
+| Tu esposa `llega tarde` | Your wife `arrives late` |
+| `depende` | It `depends` |
