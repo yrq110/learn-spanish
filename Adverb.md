@@ -31,3 +31,15 @@ adverbs in Spanish
 | demasiado | too |
 | tampoco | neither |
 | pronto | soon |
+| general | generally |
+| por supuesto | of course |
+| bastante | a lot |
+| finalmente | finally |
+| especialmente | specially |
+| tarde | late |
+| solamente | only/just |
+| alrededor | around |
+| realmente | really |
+| jamás | never |
+| simplemente | simply |
+| totalmente | totally |
