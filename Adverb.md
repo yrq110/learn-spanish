@@ -43,3 +43,17 @@ adverbs in Spanish
 | jamás | never |
 | simplemente | simply |
 | totalmente | totally |
+| igualmente | likewise |
+| probablemente | probably |
+| inmediatamente | immediately |
+| debajo | under |
+| prácticamente | practically |
+| adelante | forward |
+| quizás | perhaps |
+| generalmente | generally |
+| perfectamente | perfectly |
+| únicamente | only |
+| principalmente | mainly |
+| recientemente | recently |
+| aproximadamente | about/approximately |
+| completamente | completely |
