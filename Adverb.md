@@ -57,3 +57,17 @@ adverbs in Spanish
 | recientemente | recently |
 | aproximadamente | about/approximately |
 | completamente | completely |
+| nuevamente | again | 
+| absolutamente | absolutely |
+| exactamente | exactly |
+| definitivamente | definitely|
+| naturalmente | naturally |
+| seguramente | surely |
+| rápidamente | quickly |
+| lentamente | slowly |
+| fácilmente | easily |
+| normalmente | usually  |
+| posiblemente | possibly |
+| apenas | barely |
+| necesariamente | necessarily | 
+| relativamente | relatively | 
