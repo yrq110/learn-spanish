@@ -25,3 +25,15 @@ objetcs in Spanish
 | avión | airplane | M |
 | tijeras | scissors | F |
 | mochila | bag | M |
+| pluma | pen |  |
+| tarjeta | card | F |
+| batería | battery | F |
+| campana | bell |  |
+| papel | paper | M |
+| dólares | dollar |  |
+| fuente | source |  |
+| revista | magazine | F |
+| cadena | chain | F |
+| página | page | F |
+| periódico | newspaper | M |
+| objeto | object |  |
