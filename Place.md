@@ -31,6 +31,10 @@ places in Spanish
 | patio | yard/patio |
 | avenida | avenue |
 | pista | clue/track |
-|  |  |
-|  |  |
-|  |  |
+| distancia | distance |
+| galeria | gallery |
+| capital | capital |
+| ruta | route |
+| oeste | west |
+| agencia | agency |
+| colonia | colony |
