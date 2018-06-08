@@ -25,3 +25,12 @@ places in Spanish
 | festival | festival |
 | torre | tower |
 | patria | homeland/country |
+| continente | continent |
+| esquina | corner |
+| bar | bar |
+| patio | yard/patio |
+| avenida | avenue |
+| pista | clue/track |
+|  |  |
+|  |  |
+|  |  |
