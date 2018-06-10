@@ -20,3 +20,5 @@
 * [Adjective](Adjective.md)
 * [Determiners](Determiners.md)
 * [Adverb](Adverb.md)
+* [Place](Place.md)
+* [People](People.md)
