@@ -14,3 +14,13 @@ peoples in Spanish
 | vecinos | neighbors |
 | ciudadano | citizen |
 | pareja | couple/pair |
+| humanidad | humanity |
+| individuo | individual |
+| costumbres | customs |
+| victima | victim |
+| turismo | tourism |
+| enemigo | enemy |
+| campesino | peasant |
+| caballero | gentleman |
+| testigo | witness |
+| feria | fair |
